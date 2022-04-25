@@ -72,8 +72,6 @@ const Register = () => {
           handleChange={handleChange}
         />
         <FormRow
-          a
-          member
           type='password'
           name='password'
           value={values.password}
